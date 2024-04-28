@@ -1,2 +1,3 @@
-# andoid-launcher-widgets
-Widgets for the table version of Volla launcher
+# Volla Launcher Widgets
+
+Widgets for the tablet version of the Volla launcher.
